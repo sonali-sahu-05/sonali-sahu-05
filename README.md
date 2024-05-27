@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development and java language
 - 💞️ I’m looking to collaborate on exciting and innovate projects that align with my skills and interest
 - 📫 How to reach me
-- linkdein id 
+- linkdein id :https://www.linkedin.com/in/sonali-sahu-737123249
 
 
 <!---
